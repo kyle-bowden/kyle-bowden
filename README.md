@@ -1,4 +1,4 @@
-<h1>Kyle Bowden: User Manual</h1>
+<h1>User Manual</h1>
 
 <div align="center">
     <img src="images/user_manual.webp" alt="Introduction" height="256">
@@ -11,6 +11,10 @@
         <li><strong>Role:</strong> Consultant - Software Engineering</li>
         <li><strong>Contact Information:</strong> <a href="mailto:kyle247365@gmail.com">kyle247365@gmail.com</a></li>
     </ul>
+</div>
+
+<div align="center">
+    <img src="images/availability.webp" alt="Introduction" height="256">
 </div>
 
 <h2>2. Working Hours & Availability</h2>
