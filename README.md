@@ -1,10 +1,11 @@
 <h1>User Manual</h1>
 
+<h2>1. Introduction</h2>
+
 <div align="center">
     <img src="images/user_manual.webp" alt="Introduction" height="256">
 </div>
 
-<h2>1. Introduction</h2>
 <div class="contact-info">
     <ul>
         <li><strong>Name:</strong> Kyle Bowden</li>
@@ -13,11 +14,12 @@
     </ul>
 </div>
 
+<h2>2. Working Hours & Availability</h2>
+
 <div align="center">
     <img src="images/availability.webp" alt="Introduction" height="256">
 </div>
 
-<h2>2. Working Hours & Availability</h2>
 <ul>
     <li><strong>Typical Working Hours:</strong> 9 AM - 5 PM (GMT) but my most productive hours are between 10 p.m and 1 p.m. </li>
     <li><strong>Best Times to Reach Me:</strong> Mornings are best; usually responsive to emails within 24 hours.</li>
