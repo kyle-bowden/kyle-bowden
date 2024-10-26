@@ -43,7 +43,7 @@
 <ul>
     <li><strong>My Ideal Work Environment:</strong> For deep focus, I prefer being at home in my own office space and set up, as I find offices distracting for concentrated work. However, for collaborative tasks like brainstorming, I enjoy meeting up with my team in an office setting.</li>
     <li><strong>Best Way to Collaborate with Me:</strong> Clear agendas for meetings, along with a mix of engaging or spontaneous moments to keep things lively and avoid monotony.</li>
-    <li><strong>Focus Hours:</strong> I prefer not to be interrupted, as it disrupts my ability to concentrate. I will put a slack status on to let you know ;)</li>
+    <li><strong>Focus Hours:</strong> I prefer not to be interrupted, as it disrupts my ability to concentrate. I will put a slack status on to let you know 😉</li>
 </ul>
 
 <div align="center">
