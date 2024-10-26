@@ -1,7 +1,7 @@
 <h1>Kyle Bowden: User Manual</h1>
 
 <div align="center">
-    <img src="images/introduction.webpp" alt="Introduction" height="256">
+    <img src="images/user_manual.webp" alt="Introduction" height="256">
 </div>
 
 <h2>1. Introduction</h2>
