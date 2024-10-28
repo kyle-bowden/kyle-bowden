@@ -29,7 +29,7 @@
     <li><strong>Best Times to Reach Me:</strong> Mornings are best; usually responsive to emails within 24 hours.</li>
     <li><strong>Preferred Communication Channels:</strong> Slack, Telegram, Signal, WhatsApp, and Email although I'm much slower to respond to emails.</li>
     <li><strong>Out-of-Office Protocol:</strong> I set up an auto-reply and may not be immediately available.</li>
-    <li><strong>Holidays:<strong> I value my free time as it allows me to spend quality moments with family and friends, so I'm completely unreachable during those periods.</li>
+    <li><strong>Holidays:</strong> I value my free time as it allows me to spend quality moments with family and friends, so I'm completely unreachable during those periods.</li>
 </ul>
 
 <div align="center">
